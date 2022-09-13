@@ -11,14 +11,14 @@
 
     b- php
 
-    c- Java
+    c- Java XXX
 
 2. Has programat abans de començar els estudis de DAW? On? Quant de temps?
 
     Resposta: 
     
     
-    -
+    -No, no he programado antes, solo he estudiado algo basico de java y de C
 
 
 3. Què és compilar un programa?
@@ -26,7 +26,7 @@
     Resposta:
     
     
-    -
+    - compilar un programa es cuando se ejecuta el lenguaje de programacion. 
 
 4. Què és un llenguatge interpretat i en què es diferencia d'un llenguatge compilat?
 
@@ -37,7 +37,7 @@
 
 5. Quins llenguatges de programació has fet servir?
 
-    Resposta: 
+    Resposta: He intentado Java y C
 
 
 6. Quina diferència hi ha entre un lleguatge de programació d’alt nivell i un de baix nivell?
@@ -52,7 +52,7 @@
     Resposta:
 
 
-    -
+    -Un algoritmo esuna serie de pasos estructurados de manera logica para conseguir un resultado 
 
 8. En el món de la programació Orientada a Objecte, digues quina diferència hi ha entre:
 
