@@ -18,7 +18,7 @@
     Resposta: 
     
     
-    -No, no he programado antes, solo he estudiado algo basico de java y de C
+    -No, no he programado antes, solo he estudiado algo basico de java y de C por mi propia cuenta
 
 
 3. Què és compilar un programa?
@@ -26,14 +26,14 @@
     Resposta:
     
     
-    - compilar un programa es cuando se ejecuta el lenguaje de programacion. 
+    - compilar un programa es cuando se ejecuta el lenguaje de programacion escrito mediante un compilador. 
 
 4. Què és un llenguatge interpretat i en què es diferencia d'un llenguatge compilat?
 
     Resposta:
 
 
-    -
+    -Un lenguaje interpretado es el que ejecuta las instrucciones del codigo fuente programadas sin compilar, y el lenguaje compilado es la ejecucion de ese codigo fuente mediante un compilador 
 
 5. Quins llenguatges de programació has fet servir?
 
